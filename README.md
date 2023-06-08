@@ -1,5 +1,3 @@
-Sure, here is a sample README for the project:
-
 ---
 
 # Simple Banking System
